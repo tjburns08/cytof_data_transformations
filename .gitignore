@@ -8,3 +8,4 @@ renv.lock
 *.Rproj
 .DS_Store
 .Rprofile
+
